@@ -51,7 +51,7 @@
 
 (def file-path  "../invoice.json")
 (def validated-invoice (read-json-file file-path))
-
+ 
 
 
 ;; FULL THIRT EXERCISE
